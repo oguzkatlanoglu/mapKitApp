@@ -3,3 +3,5 @@ This application is developed with swift language. Thanks to this application, y
 Bu uygulama sayesinde ziyaret ettiğiniz yerleri kaydedebilecek ve telefonunuzda saklayabileceksiniz.)
 
 Thanks for reading.
+
+Linkledin: https://www.linkedin.com/in/o%C4%9Fuzhan-katlano%C4%9Flu-423869241/
